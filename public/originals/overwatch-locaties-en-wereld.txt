@@ -1,0 +1,128 @@
+OVERWATCH — LOCATIES, FACTIES EN DE WERELD
+===========================================
+
+Dit document beschrijft de belangrijkste locaties, facties en de wereld van Overwatch.
+Gebruik het voor vragen over waar gebeurtenissen plaatsvinden en welke groepen bestaan.
+
+FACTIES
+-------
+1. OVERWATCH — De internationale vredesmacht die na de Omnic Crisis werd opgericht door de
+   VN. Symbool van hoop, maar ook van controverse door de geheime praktijken van
+   Blackwatch. Na het Petras-akkoord verboden en ontbonden.
+
+2. TALON — Een criminele organisatie die chaos en macht nastreeft en de bestaande orde wil
+   ondermijnen. Geleid door een raad met Doomfist, Maximilien en Sanjay Korpal. Leden zijn
+   onder andere Reaper, Widowmaker, Sombra, Moira en Sigma.
+
+3. BLACKWATCH — De geheime afdeling van Overwatch onder leiding van Gabriel Reyes. Voerde
+   zwarte operaties uit die publiek niet bekend mochten worden. Bestond onder meer uit
+   Reyes, Genji, Cassidy en Moira.
+
+4. NULL SECTOR — Een omnic-beweging die vrijheid voor omnics eist, onder leiding van
+   Ramattra. Gebruikt geweld om haar doelen te bereiken.
+
+5. DE SHIMADA-CLAN — Een Japans crimineel imperium van wapens en macht. Hanzo en Genji
+   Shimada zijn de zonen van het hoofd van de clan.
+
+6. DE JUNKERS — Een gemeenschap in de Australische woestijn die na de Omnic Crisis werd
+   achtergelaten. Junkrat en Roadhog zijn bekende leden; Junker Queen leidt Junkertown.
+
+7. DE MEKA-EENHEID — Een Zuid-Koreaanse mech-eenheid die de kust verdedigt tegen omnic-
+   aanvallen. D.Va (Hana Song) is het beroemdste lid.
+
+8. DE GOD-PROGRAMMA'S — Kunstmatige intelligenties zoals Anubis die de omnics aanstuurden.
+   Anubis is de bekendste en werd verantwoordelijk gehouden voor de Omnic Crisis.
+
+LOCATIES
+--------
+- WATCHPOINT: GIBRALTAR — De ruimtebasis van Overwatch in Gibraltar. Hier zit Winston en
+  is de thuisbasis van het nieuwe team.
+- ZWITSERLAND (OVERWATCH HOOFDKWARTIER) — Het oorspronkelijke hoofdkwartier, verwoest door
+  de explosie tussen Morrison en Reyes.
+- HANAMURA, JAPAN — De thuisbasis van de Shimada-clan.
+- KING'S ROW, LONDEN — Een historische wijk met een sterke band met Tracer en de
+  Overwatch-lore; de plek van een bekende opstand tegen omnics.
+- TEMPLE OF ANUBIS, EGYPTE — De locatie waar het Anubis-god-programma huist.
+- NUMBANI, EGYPTE — De thuisstad van Pharah en Ana.
+- JUNKERTOWN, AUSTRALIE — De door Junkers bestuurde stad in de woestijn.
+- RIALTO, ITALIE — De Italiaanse stad waar Talon-activiteiten plaatsvinden.
+- VOLSKAYA INDUSTRIES, RUSLAND — Een industrieel complex met een omnic-verleden.
+- BUSAN, ZUID-KOREA — De kuststad die door de MEKA-eenheid wordt verdedigd.
+- NEPAL — Het klooster van de Shambali, waar Zenyatta en de monniken leven.
+- HAVANA, CUBA — Een plek waar Talon opereert.
+- DORADO, MEXICO — De stad van Sombra en een centrum van omnic-conflicten.
+- ILIOS, GRIEKENLAND — Een Griekse kustlocatie waar omnic-resten te vinden zijn.
+- LYJIANG TOWER, CHINA — Een wetenschappelijke toren met een omnic-verleden.
+- MIDTOWN, NEW YORK — Een moderne stad in de Overwatch-wereld.
+- SURAVASA, INDIA — Een Indiase stad met een sterke band met Symmetra.
+- PARAISO, BRAZILIE — De thuisstad van Lucio en een centrum van verzet.
+
+GAME-MODI
+---------
+Overwatch kent door de jaren heen meerdere gamemodi:
+- ESCORT: begeleid een payload naar het doelwit.
+- HYBRID: combineer puntverovering met escort.
+- CONTROL: verover en houd een controlepunt.
+- ASSAULT: aanval of verdedig het doelwit.
+- PUSH: duw een robot naar de overkant van de kaart.
+- FLASHPOINT: verover punten op een grote kaart.
+- CLASH: botst met het vijandelijke team om punten.
+
+ROLLEN
+------
+- TANK: beschermt het team en maakt ruimte. Voorbeelden: Reinhardt, Winston, D.Va, Orisa,
+  Roadhog, Sigma, Zarya, Ramattra, Mauga, Junker Queen en Doomfist.
+- DAMAGE: deelt schade uit en schakelt tegenstanders uit. Voorbeelden: Tracer, Genji,
+  Hanzo, Widowmaker, Pharah, Reaper, Mei, Ashe, Cassidy, Bastion en Sojourn.
+- SUPPORT: geneest en versterkt het team. Voorbeelden: Mercy, Ana, Lucio, Moira, Baptiste,
+  Brigitte, Zenyatta, Kiriko en Illari.
+
+DE WERELD VAN OVERWATCH
+----------------------
+De wereld van Overwatch is een nabije toekomst waarin technologie, omnics en de nasleep
+van een wereldoorlog centraal staan. Overal ter wereld zoeken mensen en omnics naar een
+nieuw evenwicht. De helden van Overwatch symboliseren hoop, maar worstelen met morele
+vragen en met hun eigen verleden.
+
+EXPLOSIEVE GEBEURTENISSEN
+-------------------------
+- De Omnic Crisis verwoestte grote delen van de wereld en kostte talloze levens.
+- Het Petras-akkoord verbood Overwatch en ontbond de organisatie.
+- De aanval van Talon op de basis leidde tot de terugkeer van de helden.
+- De opkomst van Null Sector zorgde voor een nieuwe wereldwijde dreiging.
+
+EEN VEILIGE WERELD
+------------------
+De droom van Overwatch is een veilige wereld voor iedereen, mensen en omnics. Of die
+droom haalbaar is, is de centrale vraag van het verhaal.
+
+EXTRA LOCATIE-DETAILS
+---------------------
+- HANAMURA brengt de sfeer van een oud Japans dorp samen met futuristische technologie. De
+  kaart speelt een centrale rol in het verhaal van de Shimada-clan en hun imperium van
+  wapens en criminele macht.
+- KING'S ROW in Londen kent een rijke geschiedenis die teruggaat tot de Industriële
+  Revolutie. Hier vond een bekende opstand plaats tegen de omnics, wat de spanning tussen
+  mensen en omnics in de lore benadrukt.
+- NUMBANI is de Egyptische stad waar Ana en Pharah vandaan komen. De stad combineert
+  traditionele architectuur met moderne technologie en is verbonden met de verdediging van
+  Egypte tegen de omnics.
+- NEPAL herbergt het klooster van de Shambali, een spirituele orde van omnics die vrede
+  nastreeft. Zenyatta en Ramattra behoorden beiden tot deze orde voordat hun paden
+  scheidden.
+- RIALTO in Italie is een stad van kanalen en bruggen waar Talon actief is. De kaart speelt
+  een rol in de verhaallijn rond Talon en haar criminele netwerk.
+- VOLSKAYA INDUSTRIES in Rusland is een verlaten industrieel complex dat nauw verbonden is
+  met de omnic-productie en de nasleep van de crisis.
+- BUSAN in Zuid-Korea is de kuststad die door de MEKA-eenheid wordt verdedigd tegen
+  terugkerende omnic-aanvallen. D.Va en haar team zijn hier de lokale helden.
+- WATCHPOINT: GIBRALTAR is de thuisbasis van het nieuwe Overwatch-team. Van hieruit
+  coördineert Winston de missies van de teruggekeerde helden.
+- PARADISO in Brazilie is verbonden met Lucio, die als DJ en activist de bevolking
+  inspireerde tot verzet tegen onderdrukking.
+- DORADO in Mexico is de stad van Sombra en een centrum van omnic-conflicten en
+  criminele netwerken.
+
+Zo vormen de locaties samen een wereldkaart die de gebeurtenissen van Overwatch met elkaar
+verbindt: van de koude industrie in Rusland tot de zonnige stranden van Paraiso, en van het
+Japanse Hanamura tot het Egyptische Numbani.

@@ -1,0 +1,72 @@
+OVERWATCH — PERSONAGES DOSSIER (voor de helpdesk-agent)
+========================================================
+
+Dit dossier beschrijft de belangrijkste helden en schurken uit Overwatch en hun rol in
+de lore. Gebruik dit als bron voor vragen over een specifiek personage.
+
+A. OVERWATCH (het oorspronkelijke team en de teruggekeerde helden)
+-----------------------------------------------------------------
+- SOLDIER: 76 (Jack Morrison): mede-oprichter en veldcommandant van Overwatch. Na de
+  Zwitserse explosie leeft hij voort als gemaskerde vigilante met een pulse rifle.
+- REINHARDT WILHELM: Duitse ridder, draagt Crusader-armor, zwaait met een rocket
+  hammer en beschermt met zijn barrièreschild. Is de mentor van Brigitte.
+- ANA AMARI: Egyptische sluipschutter, mede-oprichter. Draagt nu de naam Shrike.
+- TORBJORN LINDHOLM: Zweedse ingenieur, maker van Overwatch' wapens en turrets.
+- WINSTON: genetisch gemodificeerde gorilla, wetenschapper. Riep de helden terug bij
+  het begin van Overwatch 2.
+- TRACER (Lena Oxton): Britse pilote, raakte vast in de tijdstroom, draagt een
+  chronal accelerator, blinkt en rewindt in de tijd.
+- MERCY (Angela Ziegler): Zwitserse arts, uitvinder van biotisch genezende technologie.
+- GENJI SHIMADA: Japanse cyborg-ninja, door Mercy gered en gerehabiliteerd.
+- HANZO SHIMADA: broer van Genji, boogschutter, bouwt aan zijn eigen weg.
+- MEI (Mei-Ling Zhou): Chinese klimaatwetenschapper met een cryo-vriestoestel.
+- PHARAH (Fareeha Amari): Egyptische raket-helmed, dochter van Ana.
+- LUCIO: Braziliaanse DJ, geneest met muziek.
+- ZARYA: Russische gewichthefster, gebruikt een particle cannon.
+- D.VA (Hana Song): Zuid-Koreaanse mech-piloot, voormalig esporter.
+- CASSIDY (voorheen McCree): voormalig Blackwatch-lid, revolverheld.
+- SOJOURN (Vivian Chase): Canadese oud-Overwatch-commandant, cyborg-soldaat.
+- BRIGITTE: dochter van Torbjorn en schildmaagd, geneest teamgenoten.
+
+B. TALON (de criminele tegenstander)
+------------------------------------
+- DOOMFIST (Akande Ogundimu): leider binnen Talon, gebruikt de gauntlet, vindt dat
+  conflict de wereld vooruit stuwt.
+- REAPER (Gabriel Reyes): oud-Blackwatch-leider, nu een geestachtige Talon-moordenaar.
+- WIDOWMAKER (Amelie Lacroix): Franse huurmoordenaar, door Talon hersenspoeld.
+- SOMBRA (Olivia Colomar): Mexicaanse hacker die informatie als macht gebruikt.
+- MOIRA (Moira O'Deorain): Ierse geneticus, verantwoordelijk voor experimenten.
+- SIGMA (Siebren de Kuiper): Nederlandse astrofysicus met controle over zwaartekracht.
+- MAUGA: Samoaanse Talon-tank-held.
+- MAXIMILIEN en SANJAY KORPAL: bestuursleden uit de Talon-raad.
+
+C. NULL SECTOR en andere facties
+--------------------------------
+- RAMATTRA: leider van Null Sector. Wil omnics bevrijden en accepteert geweld.
+- OMNIANS/OMNICS: robots met een gemeenschappelijke oorsprong bij de god-programma
+  "Anubis". Een deel wil vreedzaam samenleven (zoals Zenyatta en Mondatta), een deel
+  sluit zich aan bij Null Sector.
+- ZENYATTA: omnic-monnik die zijn volgers mindfulness leert.
+- JUNKERS: inwoners van Junkertown, geleid door de JUNKER QUEEN (Odessa Stone).
+- SHIMADA-CLAN: Japans crimineel imperium, oud-thuis van Hanzo en Genji.
+- DEADLOCK GANG: Ashe en haar bendeleden in het Amerikaanse zuidwesten.
+
+D. VRAAG-ANTWOORD NASLAG
+------------------------
+Vraag: Wie leidt Talon?
+Antwoord: Doomfist is de leider binnen de Talon-raad.
+
+Vraag: Wie is de aartsvijand van Soldier: 76?
+Antwoord: Reaper (Gabriel Reyes), zijn voormalige partner.
+
+Vraag: Wie riep de helden terug aan het begin van Overwatch 2?
+Antwoord: Winston, vanaf Watchpoint: Gibraltar.
+
+Vraag: Wat is de rol van Mercy?
+Antwoord: Angela Ziegler is arts en uitvinder van biotische genezingstechnologie.
+
+Vraag: Wie zijn de broers uit de Shimada-clan?
+Antwoord: Hanzo en Genji Shimada.
+
+Vraag: Wie leidt Null Sector?
+Antwoord: Ramattra. Null Sector wil omnics met geweld bevrijden.

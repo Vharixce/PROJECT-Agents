@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Overwatch Command — Lore Agent</title>
+  <link rel="stylesheet" href="style.css" />
+  <script defer type="module" src="./app.js"></script>
+</head>
+<body>
+  <!-- naam, avatar en welke tools er zijn -->
+  <header class="topbar">
+    <img class="avatar" src="avatar.png" alt="Overwatch Command avatar"
+         onerror="this.style.display='none'" />
+    <div>
+      <h1>Overwatch Command</h1>
+      <p class="subtitle">Helpdesk-agent voor al je Overwatch vragen. Tools: 📚 documenten · 🌐 nieuws zoeken · 🎲 willekeurige held</p>
+    </div>
+  </header>
+
+  <main id="chat"></main>
+
+  <form id="form">
+    <input id="input" type="text" autocomplete="off" placeholder="Bijv. 'Wie leidt Talon?' of 'Wat is het laatste Overwatch nieuws?'" />
+    <button id="submit" type="submit">Send</button>
+  </form>
+</body>
+</html>
